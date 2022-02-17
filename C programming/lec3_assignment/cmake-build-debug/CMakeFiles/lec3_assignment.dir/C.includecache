@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/esam5/OneDrive/Desktop/Embedded Systems/Embedded-Systems-Diploma/C programming/lec3_assignment/main.c
+stdio.h
+-
+

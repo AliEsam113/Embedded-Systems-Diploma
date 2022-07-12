@@ -1,0 +1,3 @@
+C:/Users/esam5/OneDrive/Desktop/Embedded Systems/Embedded-Systems-Diploma/C programming/lec6_assignment/cmake-build-debug/CMakeFiles/lec6_assignment.dir
+C:/Users/esam5/OneDrive/Desktop/Embedded Systems/Embedded-Systems-Diploma/C programming/lec6_assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/esam5/OneDrive/Desktop/Embedded Systems/Embedded-Systems-Diploma/C programming/lec6_assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

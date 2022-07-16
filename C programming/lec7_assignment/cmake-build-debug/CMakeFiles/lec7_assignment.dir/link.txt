@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\lec7_assignment.dir/objects.a
+C:\MingW\bin\ar.exe cr CMakeFiles\lec7_assignment.dir/objects.a @CMakeFiles\lec7_assignment.dir\objects1.rsp
+C:\MingW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\lec7_assignment.dir/objects.a -Wl,--no-whole-archive -o lec7_assignment.exe -Wl,--out-implib,liblec7_assignment.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lec7_assignment.dir\linklibs.rsp
